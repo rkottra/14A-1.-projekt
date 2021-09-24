@@ -1,7 +1,7 @@
 {
   "name": "14a-1.-projekt",
   "version": "1.0.0",
-  "description": "",
+  "description": "valami",
   "main": "index.js",
   "dependencies": {
     "bootstrap": "^5.1.1",
